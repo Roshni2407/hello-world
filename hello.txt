@@ -1,2 +1,4 @@
 Hello Artifactory and Sonar
 "This is my first automatic build thru GitHub in Jenkins"
+
+All good?????
