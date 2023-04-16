@@ -1,3 +1,5 @@
 hello!!!!!
 
 This is my latest push to master
+
+And now this is last lab of Devops- "created Docker-slave of Jenkins and configured hellow-world to build and deploy source code in a docker container as hellow world image"
